@@ -72,6 +72,7 @@ function Chat() {
               sx={{
                 textAlign:"left",
                 display:"flex",
+                padding:"1%"
               }}
               >
                 {/* {payload.username} */}
